@@ -25,6 +25,8 @@ This map defines ownership boundaries for every document so each topic has one c
 | Hardware board architecture   | `02_HARDWARE/HARDWARE_DESIGN.md`                  | References only         |
 | Electrical interfaces/signals | `02_HARDWARE/MODULE_INTERFACE_SPEC.md`            | References only         |
 | Motherboard v1 requirements   | `02_HARDWARE/MOTHERBOARD_V1_SPEC.md`              | References only         |
+| Industrial visual direction   | `02_HARDWARE/OMNIDECK_VISUAL_DIRECTION.md`        | References only         |
+| Render brief standard         | `02_HARDWARE/RENDER_BRIEF_TEMPLATE.md`            | References only         |
 | BOM and cost planning         | `02_HARDWARE/BOM_TEMPLATE.md`                     | Budget summary + link   |
 | Bring-up validation checklist | `02_HARDWARE/HARDWARE_CHECKLIST.md`               | Gate reference + link   |
 | No-hardware strategy + limits | `03_EXECUTION/NO_HARDWARE_EXECUTION_PLAN.md`      | Summary + link          |
@@ -49,5 +51,7 @@ This map defines ownership boundaries for every document so each topic has one c
 
 - Start here for system context: [01_FOUNDATION/SYSTEM_ARCHITECTURE.md](01_FOUNDATION/SYSTEM_ARCHITECTURE.md)
 - Start here for hardware implementation: [02_HARDWARE/MOTHERBOARD_V1_SPEC.md](02_HARDWARE/MOTHERBOARD_V1_SPEC.md)
+- Start here for visual direction: [02_HARDWARE/OMNIDECK_VISUAL_DIRECTION.md](02_HARDWARE/OMNIDECK_VISUAL_DIRECTION.md)
+- Start here for render briefs: [02_HARDWARE/RENDER_BRIEF_TEMPLATE.md](02_HARDWARE/RENDER_BRIEF_TEMPLATE.md)
 - Start here for no-hardware execution: [03_EXECUTION/NO_HARDWARE_EXECUTION_PLAN.md](03_EXECUTION/NO_HARDWARE_EXECUTION_PLAN.md)
 - Latest baseline evidence: [artifacts/READINESS_BASELINE_2026-03-09.md](artifacts/READINESS_BASELINE_2026-03-09.md)

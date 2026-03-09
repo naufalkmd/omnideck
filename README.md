@@ -77,6 +77,11 @@ Add your concept and build renders in `assets/` and reference them here:
 ![Cyberdeck Internal Layout](assets/cyberdeck-internal.png)
 ![Cyberdeck Field Setup](assets/cyberdeck-field.png)
 
+Render workflow assets:
+
+- [Render Batch Index](assets/renders/README.md)
+- [BATCH-001 Prefilled Brief](assets/renders/BATCH-001/BRIEF.md)
+
 ---
 
 ## Roadmap Progress
@@ -152,6 +157,8 @@ Latest baseline result: [docs/artifacts/READINESS_BASELINE_2026-03-09.md](docs/a
 - [Security Research Capabilities](docs/01_FOUNDATION/SECURITY_RESEARCH_CAPABILITIES.md)
 - [Module Interface Specification](docs/02_HARDWARE/MODULE_INTERFACE_SPEC.md)
 - [Motherboard v1 Full Specification](docs/02_HARDWARE/MOTHERBOARD_V1_SPEC.md)
+- [Omnideck Visual Direction](docs/02_HARDWARE/OMNIDECK_VISUAL_DIRECTION.md)
+- [Render Brief Template](docs/02_HARDWARE/RENDER_BRIEF_TEMPLATE.md)
 - [BOM Template](docs/02_HARDWARE/BOM_TEMPLATE.md)
 - [Hardware Bring-Up Checklist](docs/02_HARDWARE/HARDWARE_CHECKLIST.md)
 - [No-Hardware Execution Plan](docs/03_EXECUTION/NO_HARDWARE_EXECUTION_PLAN.md)
@@ -196,6 +203,8 @@ omnideck/
 │   │   ├── HARDWARE_DESIGN.md
 │   │   ├── MODULE_INTERFACE_SPEC.md
 │   │   ├── MOTHERBOARD_V1_SPEC.md
+│   │   ├── OMNIDECK_VISUAL_DIRECTION.md
+│   │   ├── RENDER_BRIEF_TEMPLATE.md
 │   │   ├── BOM_TEMPLATE.md
 │   │   └── HARDWARE_CHECKLIST.md
 │   ├── 03_EXECUTION/

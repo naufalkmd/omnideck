@@ -7,6 +7,8 @@ This folder contains implementation-ready hardware specs.
 - `HARDWARE_DESIGN.md` — board architecture and physical design
 - `MODULE_INTERFACE_SPEC.md` — electrical interfaces/signals
 - `MOTHERBOARD_V1_SPEC.md` — motherboard v1 requirements
+- `OMNIDECK_VISUAL_DIRECTION.md` — industrial design and render direction
+- `RENDER_BRIEF_TEMPLATE.md` — standardized render request template
 - `BOM_TEMPLATE.md` — bill of materials and cost planning
 - `HARDWARE_CHECKLIST.md` — bring-up validation checklist
 
