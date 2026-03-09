@@ -162,6 +162,7 @@ Latest baseline result: [docs/artifacts/READINESS_BASELINE_2026-03-09.md](docs/a
 - [BOM Template](docs/02_HARDWARE/BOM_TEMPLATE.md)
 - [Hardware Bring-Up Checklist](docs/02_HARDWARE/HARDWARE_CHECKLIST.md)
 - [No-Hardware Execution Plan](docs/03_EXECUTION/NO_HARDWARE_EXECUTION_PLAN.md)
+- [30-Day Learning Plan](docs/03_EXECUTION/LEARNING_PLAN_30_DAY.md)
 - [Simulation Tooling Guide](docs/03_EXECUTION/SIMULATION_TOOLING_GUIDE.md)
 - [Simulation Runbook](docs/03_EXECUTION/SIMULATION_RUNBOOK.md)
 - [No-Hardware Execution Tracker](docs/03_EXECUTION/EXECUTION_TRACKER.md)

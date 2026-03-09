@@ -30,6 +30,7 @@ This map defines ownership boundaries for every document so each topic has one c
 | BOM and cost planning         | `02_HARDWARE/BOM_TEMPLATE.md`                     | Budget summary + link   |
 | Bring-up validation checklist | `02_HARDWARE/HARDWARE_CHECKLIST.md`               | Gate reference + link   |
 | No-hardware strategy + limits | `03_EXECUTION/NO_HARDWARE_EXECUTION_PLAN.md`      | Summary + link          |
+| Skill ramp and daily criteria | `03_EXECUTION/LEARNING_PLAN_30_DAY.md`            | Summary + link          |
 | Simulation tools reference    | `03_EXECUTION/SIMULATION_TOOLING_GUIDE.md`        | Tool mention + link     |
 | Weekly simulation procedure   | `03_EXECUTION/SIMULATION_RUNBOOK.md`              | Step summary + link     |
 | Execution status tracker      | `03_EXECUTION/EXECUTION_TRACKER.md`               | Snapshot + link         |
@@ -54,4 +55,5 @@ This map defines ownership boundaries for every document so each topic has one c
 - Start here for visual direction: [02_HARDWARE/OMNIDECK_VISUAL_DIRECTION.md](02_HARDWARE/OMNIDECK_VISUAL_DIRECTION.md)
 - Start here for render briefs: [02_HARDWARE/RENDER_BRIEF_TEMPLATE.md](02_HARDWARE/RENDER_BRIEF_TEMPLATE.md)
 - Start here for no-hardware execution: [03_EXECUTION/NO_HARDWARE_EXECUTION_PLAN.md](03_EXECUTION/NO_HARDWARE_EXECUTION_PLAN.md)
+- Start here for skill ramp: [03_EXECUTION/LEARNING_PLAN_30_DAY.md](03_EXECUTION/LEARNING_PLAN_30_DAY.md)
 - Latest baseline evidence: [artifacts/READINESS_BASELINE_2026-03-09.md](artifacts/READINESS_BASELINE_2026-03-09.md)

@@ -5,6 +5,7 @@ This folder contains no-hardware execution strategy, simulation workflow, and pr
 ## Owns
 
 - `NO_HARDWARE_EXECUTION_PLAN.md` — no-hardware plan and limitations
+- `LEARNING_PLAN_30_DAY.md` — daily skill-building checklist with pass criteria
 - `SIMULATION_TOOLING_GUIDE.md` — tool reference and boundaries
 - `SIMULATION_RUNBOOK.md` — repeatable execution steps
 - `EXECUTION_TRACKER.md` — weekly execution status
