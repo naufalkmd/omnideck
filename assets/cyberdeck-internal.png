@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#0b1020"/>
+  <rect x="40" y="40" width="1200" height="640" rx="24" fill="#111827" stroke="#334155" stroke-width="4"/>
+  <text x="640" y="310" text-anchor="middle" fill="#e5e7eb" font-size="52" font-family="Arial, sans-serif">Cyberdeck Internal Layout</text>
+  <text x="640" y="380" text-anchor="middle" fill="#94a3b8" font-size="28" font-family="Arial, sans-serif">Placeholder — replace with real image</text>
+  <text x="640" y="640" text-anchor="middle" fill="#64748b" font-size="22" font-family="Arial, sans-serif">assets/cyberdeck-internal.png</text>
+</svg>

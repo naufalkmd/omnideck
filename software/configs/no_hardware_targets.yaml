@@ -1,0 +1,23 @@
+project: cyberdeck-research-workstation
+mode: no-hardware
+
+targets:
+  documentation_readiness: 100
+  electrical_mechanical_readiness: 80
+  software_readiness: 70
+  hardware_validation_planning: 40
+
+evidence:
+  - kicad_erc_report
+  - kicad_drc_report
+  - power_simulation_plots
+  - software_bootstrap_log
+  - gnuradio_sample_output
+  - wireshark_sample_report
+  - automation_test_results
+
+blocked_until_hardware:
+  - rf_performance_signoff
+  - peripheral_interoperability_signoff
+  - thermal_soak_signoff
+  - battery_runtime_signoff
